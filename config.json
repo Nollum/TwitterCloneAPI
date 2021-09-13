@@ -1,0 +1,12 @@
+{
+    "secret" : "a-secret-key",
+    "PORT" : 5000,
+    "sampleToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxM2Q0NGNmZmU5MzExZDJjNWE3NTMwNSIsInVzZXJuYW1lIjoidGFuZ28iLCJpYXQiOjE2MzE0MTY1MDd9.NzYJf63-O-UR2UlXjsztpnjAht66D0J_r5vQWD7UERc",
+    "invalidToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJ1c2VybmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.wU2DfgKdfiM6gnyDFKy62DVlYrkjPVFqiUEfp_ErD2g",
+    "sampleTweetId" : "613e2b611d7760c638c45e17",
+    "invalidTweetId" : "41224d776a326fb40f000001",
+    "sampleChatId" : "613ea6c446dda4978c80b9d6",
+    "invalidChatId" : "41224d776a326fb40f000001",
+    "invalidUserId" : "41224d776a326fb40f000001",
+    "uninvitedUserToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxM2NmZGI2NThiYjIzYjlhNTg4YjU1MSIsIm5hbWUiOiJyb21lbyIsImlhdCI6MTUxNjIzOTAyMn0.2f1x1HOcLNUCUKc9a6JSrH9rXGzCXkpFwAMqYrAnk1o"
+}
