@@ -1,7 +1,9 @@
 # TwitterCloneAPI
 
-## Tests
+## Run the app
 Use `npm run dev` to run the app with nodemon <br>
+
+## Run the tests
 In order to run the tests, use `npm test -- filename`
 For instance, to test user registration, use `npm test -- registration.test.js` <br>
 Tests should preferably follow this order, however they should technically work in any order: <br>
