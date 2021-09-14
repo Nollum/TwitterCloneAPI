@@ -19,5 +19,5 @@ createChat,
 sendMessage,
 getMessages,
 likeTweet,
-reTweet,
+reTweet
 `
